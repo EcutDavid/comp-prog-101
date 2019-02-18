@@ -1,1 +1,2 @@
-# comp-prog-101
+# Competitive Programming 101
+
