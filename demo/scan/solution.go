@@ -1,12 +1,9 @@
 package main
 
 func main() {
-	// a := make([]int, n) // make a slice that contains n elements
-	// for i := 0; i < n; i++ {
-	// 	fmt.Scan(&a[i])
-	// }
 	// 5 * 10^5 numbers
 	// numTotal := 5e5
+
 	// for i := 0; i < int(numTotal); i++ {
 	// 	fmt.Println(i)
 	// }
